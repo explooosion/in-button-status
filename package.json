@@ -16,8 +16,16 @@
         "scss",
         "status"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/explooosion/in-button-status.git"
+    },
     "author": "Robby <ta7382@gmail.com>",
     "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/explooosion/in-button-status/issues"
+    },
+    "homepage": "https://github.com/explooosion/in-button-status#readme",
     "devDependencies": {
         "babel-core": "^6.26.3",
         "babel-eslint": "^8.2.3",
